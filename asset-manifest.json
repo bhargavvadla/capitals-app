@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/capitals-app/static/css/main.fe008bb6.css",
+    "main.js": "/capitals-app/static/js/main.aefa5f25.js",
+    "static/js/787.9f539ee6.chunk.js": "/capitals-app/static/js/787.9f539ee6.chunk.js",
+    "index.html": "/capitals-app/index.html",
+    "main.fe008bb6.css.map": "/capitals-app/static/css/main.fe008bb6.css.map",
+    "main.aefa5f25.js.map": "/capitals-app/static/js/main.aefa5f25.js.map",
+    "787.9f539ee6.chunk.js.map": "/capitals-app/static/js/787.9f539ee6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe008bb6.css",
+    "static/js/main.aefa5f25.js"
+  ]
+}
